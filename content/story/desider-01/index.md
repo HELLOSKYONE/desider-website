@@ -8,7 +8,7 @@ categories:
 - 斗望宇宙
 camp: desider
 weight: 10
-draft: true
+draft: false
 ---
 
 > 进取的人类、古老的雅龙、庞大的元孢帝国、神秘的比特星球、嗜血的异形，还有那些不断召唤同党的虚空恶魔……共同谱写着银河的历史篇章！

@@ -1,7 +1,7 @@
 ---
 title: "加入我们"
 date: 2021-07-15T16:43:16+08:00
-draft: true
+draft: false
 menu: "footer"
 weight: 40
 ---

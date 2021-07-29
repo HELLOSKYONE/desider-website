@@ -3,7 +3,7 @@ title: "关于我们"
 date: 2021-07-26T20:13:53+08:00
 menu: "footer"
 weight: 10
-draft: true
+draft: false
 ---
 
 ### “斗望”与“DESIDER”

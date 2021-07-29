@@ -1,7 +1,7 @@
 ---
 title: "智能爆炸"
 date: 2021-07-16T21:03:01+08:00
-draft: true
+draft: false
 tags: ['cover']
 categories:
 - 短片小说

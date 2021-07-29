@@ -1,7 +1,7 @@
 ---
 title: "规则"
 date: 2021-07-14T11:28:23+08:00
-draft: true
+draft: false
 menu: "main"
 weight: 30
 ---

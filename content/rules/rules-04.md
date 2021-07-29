@@ -2,7 +2,7 @@
 title: "战役规则"
 date: 2021-07-18T11:22:08+08:00
 weight: 40
-draft: true
+draft: false
 ---
 
 # 阵营

@@ -2,7 +2,7 @@
 title: "基础规则"
 date: 2021-07-18T11:19:43+08:00
 weight: 10
-draft: true
+draft: false
 ---
 
 # 军队
