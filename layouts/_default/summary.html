@@ -5,8 +5,10 @@
 				<div class="col align-self-end">
 					<div class="card-body">
 						<p>
-							{{ range (.GetTerms "categories") }}
+							{{ with (.GetTerms "categories") }}
+							{{ range . }}
 							<span class="badge rounded-pill bg-primary">{{ .LinkTitle }}</span>
+							{{ end }}
 							{{ end }}
 						</p>
 						<div class="card-title">
