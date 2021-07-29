@@ -1,0 +1,21 @@
+<div class="col">
+	<a class="over" href='{{ .Permalink }}'>
+		<div class="card bg-dark text-white" style="background-image: url({{ .Permalink }}cover.jpg); height: 300px;">
+			<div class="row h-100">
+				<div class="col align-self-end">
+					<div class="card-body">
+						<p>
+							{{ range (.GetTerms "categories") }}
+							<span class="badge rounded-pill bg-primary">{{ .LinkTitle }}</span>
+							{{ end }}
+						</p>
+						<div class="card-title">
+							<h4> {{ .Title }} </h4>
+						</div>
+						<p class="card-text">{{ .Summary | plainify }}</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</a>
+</div>

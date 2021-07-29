@@ -1,0 +1,10 @@
+<footer class="bg-dark">
+	<div class="container py-3">
+		<nav class="nav nav-justified flex-column flex-lg-row">
+			<a class="nav-link disabled">DESIDER斗望©2021</a>
+			{{ range .Site.Menus.footer }}
+			<a class="nav-link text-white" href="{{ .URL }}">{{ .Name }}</a>
+			{{ end }}
+		</nav>
+	</div>
+</footer>

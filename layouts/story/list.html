@@ -1,0 +1,43 @@
+{{ define "header" }}
+	<p>{{.Content}}</p>		
+{{ end }}
+{{ define "main" }}
+<div class="py-3">
+	<div class="container">
+		<div class="row row-cols-1 row-cols-md-2 g-3">
+			{{ range .Pages }}
+			<div class="col">
+				<div class="card bg-light h-100">
+					<div class="card-body">
+						<div class="row h-100">
+							<div class="col col-auto ps-3 pe-1">
+								<img src="/images/{{ .Params.camp }}-dark.svg" width="40px" alt="...">
+							</div>
+							<div class="col">
+								<div class="row h-100">
+									<div class="col-12">
+										<p>
+											{{ range (.GetTerms "categories") }}
+											<span class="badge rounded-pill bg-primary">{{ .LinkTitle }}</span>
+											{{ end }}
+										</p>
+										<h3 class="card-title">{{.Title}}</h3>
+										<p class="card-text">{{ .Summary | plainify }}</p>
+									</div>
+									<div class="col align-self-end">
+										<span class="card-subtitle">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+									</div>
+									<div class="col-auto align-self-end">
+										<a class="btn btn-outline-primary" href="{{.Permalink}}">阅读更多</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			{{ end }}
+		</div>
+	</div>
+</div>
+{{ end }}

@@ -1,0 +1,26 @@
+baseURL = "http://desider.com/"
+languageCode = "en-us"
+title = "DESIDER斗望——一款科幻背景的模型战棋游戏"
+summaryLength = 35
+hasCJKLanguage = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = true
+      unsafe = true
+      xhtml = true

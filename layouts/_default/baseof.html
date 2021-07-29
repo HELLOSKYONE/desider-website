@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="/dist/css/theme.css" rel="stylesheet" />
+		<link href="/dist/css/main.css" rel="stylesheet" />
+		<title>
+			{{ block "title" . }}
+			{{ .Site.Title }}
+			{{ end }}
+		</title>
+	</head>
+	<body>
+		<header class="container-fluid">
+			{{ partial "header.html" . }}
+			<div class="py-5 text-center text-light">
+				<h1 class="fw-light">{{.Title}}</h1>
+				<p class="lead text-muted">{{ with .Params.subtitle }}<span>{{.}}</span>{{ end }}</p>
+				{{ block "header" . }}{{ end }}
+			</div>
+		</header>
+		<main>
+			<div class="py-3" style="margin-top: -120px;">
+			{{ block "main" . }}
+			Hello World!
+			{{ end }}
+			</div>
+		</main>
+		{{ block "footer" . }}
+		{{ partial "footer.html" . }}
+		{{ end }}
+		<script src="/dist/js/bootstrap.bundle.min.js"></script>
+	</body>
+</html>
