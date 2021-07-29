@@ -1,5 +1,5 @@
 {{ define "header" }}
-	<p>{{.Content}}</p>		
+<p>{{.Content}}</p>
 {{ end }}
 {{ define "main" }}
 <div class="py-3">
@@ -17,7 +17,7 @@
 								<div class="row h-100">
 									<div class="col-12">
 										<p>
-											{{ with .GetTerms "categories" }}
+											{{ with (.GetTerms "categories") }}
 											{{ range . }}
 											<span class="badge rounded-pill bg-primary">{{ .LinkTitle }}</span>
 											{{ end }}
