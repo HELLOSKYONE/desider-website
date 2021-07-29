@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="/dist/css/theme.css" rel="stylesheet" />
+		<link href="/dist/css/main.css" rel="stylesheet" />
+		<title>
+			
+			DESIDER斗望——一款科幻背景的模型战棋游戏
+			
+		</title>
+	</head>
+	<body>
+		<header class="container-fluid">
+			<nav class="container navbar navbar-expand-lg rounded navbar-light">
+	<div class="container-fluid">
+		<a class="navbar-brand" href="/">
+			<img class="me-3" src="/images/desider-dark.svg" alt="" width="30" height="38">
+		</a>
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+			aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav me-auto mb-4 mb-lg-0">
+				
+				
+				<li class="nav-item px-2  ">
+					<a class="nav-link  " href="/story/">
+						故事
+					</a>
+				</li>
+				
+				<li class="nav-item px-2  ">
+					<a class="nav-link  " href="/units/">
+						单位
+					</a>
+				</li>
+				
+				<li class="nav-item px-2  ">
+					<a class="nav-link  " href="/rules/">
+						规则
+					</a>
+				</li>
+				
+				<li class="nav-item px-2  ">
+					<a class="nav-link  " href="/post/">
+						博客
+					</a>
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+</nav>
+
+			<div class="py-5 text-center text-light">
+				<h1 class="fw-light">地形规则</h1>
+				<p class="lead text-muted"></p>
+				
+			</div>
+		</header>
+		<main>
+			<div class="py-3" style="margin-top: -120px;">
+			
+<div class="container">
+	<div class="card bg-light p-3">
+		<div class="card-body">
+			<p>这是一个完全开放的地形规则，您不仅可以通过官方推出的地形模型来搭建战场，您也可以自己动手制作您喜欢的地形，事实上，您家里的任何物品都可以用来充当地形，这些规则一样可以很好的运作。</p>
+<h1 id="视野规则">视野规则</h1>
+<p>模型与模型之间是否可见遵循「真实视野」原则。只要两个模型之间能够画出一条细线，不穿过任何障碍物，那么这两个模型就相互「可见」。</p>
+<p>如果两个模型之间还同时能够画出一条细线，穿过了某些障碍物，那么两个模型就被视为「有遮挡」。但是，垂直高度不超过3厘米的地形，不会造成视野遮挡。一片树林，以底座投影为标准，只要穿过，永远被视作「有遮挡」。</p>
+<p>如果两个模型之间的所有细线都会被阻挡的话，这两个模型就被视为「不可见」。</p>
+<h1 id="地形保护">地形保护</h1>
+<p>如果一个单位中的所有模型都「有遮挡」或者「不可见」，也就是说没有任何一个模型完全暴露在敌方的视野中，那么这时候的射击，命中减一。被射击的单位如果还位于某个形成遮挡的地形的3厘米以内，被射击单位的「防护（Sv）」加一。</p>
+<p>隔墙近战，「防护（Sv）」加一。</p>
+<h1 id="地形与移动">地形与移动</h1>
+<p>带有步兵、野兽或虫群关键词的单位，可以穿越厚度小于一厘米的墙体，但移动距离（M）减2，模型不允许跨墙站立，所以如果减值后的移动距离不足以让模型完全穿过墙体，那么就不能穿越。不具有这些关键词的单位，例如载具、摩托、巨兽，不能穿越墙体。</p>
+<p>带有步兵、野兽或虫群关键词的单位，可以攀爬垂直的地形，但垂直高度一样消耗移动距离。所以最大移动距离也要保证模型可以完全爬上高地，或者翻过墙体，否则将无法进行攀爬。不具备这些关键词的单位，例如载具、摩托、巨兽，不能攀爬。</p>
+<p>所有垂直高度不超过3厘米的地形，无需攀爬，可直接跨越，但移动距离减2厘米。一个高度不超过3厘米的区域地形，如果您的单位没有办法通过一次移动跨越过去，而是先走进这个区域地形，再通过其他的移动走出去，那么两次移动都要减2厘米。</p>
+<h1 id="地形与站立">地形与站立</h1>
+<p>如果一个模型能够稳定站立在某个地形之上，并且不违反其他规则（例如单位连续性），那他就可以站立在这个地形之上。</p>
+
+		</div>
+	</div>
+</div>
+
+			</div>
+		</main>
+		
+		<footer class="bg-dark">
+	<div class="container py-3">
+		<nav class="nav nav-justified flex-column flex-lg-row">
+			<a class="nav-link disabled">DESIDER斗望©2021</a>
+			
+			<a class="nav-link text-white" href="/about/about/">关于我们</a>
+			
+			<a class="nav-link text-white" href="/about/contact/">联系我们</a>
+			
+			<a class="nav-link text-white" href="/about/recruit/">加入我们</a>
+			
+			<a class="nav-link text-white" href="/about/business/">商务合作</a>
+			
+		</nav>
+	</div>
+</footer>
+
+		
+		<script src="/dist/js/bootstrap.bundle.min.js"></script>
+	</body>
+</html>

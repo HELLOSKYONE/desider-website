@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客 on DESIDER斗望——一款科幻背景的模型战棋游戏</title>
+    <link>http://desider.com/post/</link>
+    <description>Recent content in 博客 on DESIDER斗望——一款科幻背景的模型战棋游戏</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 16:37:57 +0800</lastBuildDate><atom:link href="http://desider.com/post/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

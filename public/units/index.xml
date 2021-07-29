@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>单位 on DESIDER斗望——一款科幻背景的模型战棋游戏</title>
+    <link>http://desider.com/units/</link>
+    <description>Recent content in 单位 on DESIDER斗望——一款科幻背景的模型战棋游戏</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 16:32:19 +0800</lastBuildDate><atom:link href="http://desider.com/units/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>游猎者</title>
+      <link>http://desider.com/units/uns-space-ranger/</link>
+      <pubDate>Thu, 22 Jul 2021 15:08:12 +0800</pubDate>
+      
+      <guid>http://desider.com/units/uns-space-ranger/</guid>
+      <description>概况 名称 耐伤W 移动M 射击BS 近战WS 攻速A 防护Sv 分值 游猎者 1 15 3+ 3+ 1</description>
+    </item>
+    
+    <item>
+      <title>星国骑士</title>
+      <link>http://desider.com/units/uns-knight/</link>
+      <pubDate>Thu, 22 Jul 2021 15:10:24 +0800</pubDate>
+      
+      <guid>http://desider.com/units/uns-knight/</guid>
+      <description>概况 名称 耐伤W 移动M 射击BS 近战WS 攻速A 防护Sv 分值 星国骑士 2 25 3+ 3+</description>
+    </item>
+    
+    <item>
+      <title>泰坦</title>
+      <link>http://desider.com/units/uns-titan/</link>
+      <pubDate>Thu, 22 Jul 2021 15:10:51 +0800</pubDate>
+      
+      <guid>http://desider.com/units/uns-titan/</guid>
+      <description>概况 名称 耐伤W 移动M 射击BS 近战WS 攻速A 防护Sv 分值 泰坦 6 20 3+ 3+ 3 3+</description>
+    </item>
+    
+    <item>
+      <title>龙仔小队</title>
+      <link>http://desider.com/units/loong-zai/</link>
+      <pubDate>Thu, 22 Jul 2021 15:13:53 +0800</pubDate>
+      
+      <guid>http://desider.com/units/loong-zai/</guid>
+      <description>概况 名称 耐伤W 移动M 射击BS 近战WS 攻速A 防护Sv 分值 龙仔 2 20 4+ 4+ 1 4+</description>
+    </item>
+    
+    <item>
+      <title>麟龙骑士</title>
+      <link>http://desider.com/units/loong-rider/</link>
+      <pubDate>Thu, 22 Jul 2021 15:14:28 +0800</pubDate>
+      
+      <guid>http://desider.com/units/loong-rider/</guid>
+      <description>概况 名称 耐伤W 移动M 射击BS 近战WS 攻速A 防护Sv 分值 麟龙骑士 3 30 4+ 4+</description>
+    </item>
+    
+    <item>
+      <title>武僧</title>
+      <link>http://desider.com/units/loong-wuseng/</link>
+      <pubDate>Thu, 22 Jul 2021 15:14:07 +0800</pubDate>
+      
+      <guid>http://desider.com/units/loong-wuseng/</guid>
+      <description>概况 名称 耐伤W 移动M 射击BS 近战WS 攻速A 防护Sv 分值 武僧 3 20 4+ 4+ 2 4+</description>
+    </item>
+    
+  </channel>
+</rss>
