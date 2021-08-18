@@ -1,192 +1,200 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DESIDER斗望 on DESIDER斗望——一款科幻背景的模型战棋游戏</title>
-    <link>http://106.14.32.84/</link>
-    <description>Recent content in DESIDER斗望 on DESIDER斗望——一款科幻背景的模型战棋游戏</description>
+    <title>DESIDER斗望——一款科幻背景的模型战棋游戏</title>
+    <link>http://desider.com/</link>
+    <description>Recent content on DESIDER斗望——一款科幻背景的模型战棋游戏</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jul 2021 10:58:05 +0800</lastBuildDate><atom:link href="http://106.14.32.84/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jul 2021 10:58:05 +0800</lastBuildDate><atom:link href="http://desider.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于我们</title>
-      <link>http://106.14.32.84/about/about/</link>
+      <link>http://desider.com/about/about/</link>
       <pubDate>Mon, 26 Jul 2021 20:13:53 +0800</pubDate>
       
-      <guid>http://106.14.32.84/about/about/</guid>
-      <description>“斗望”与“DESIDER” ”斗“是”星斗“的，”斗望“就是”仰望星空</description>
+      <guid>http://desider.com/about/about/</guid>
+      <description>斗望工坊 斗望工坊（上海斗望工坊科技有限公司）将致力于「能玩的潮玩」的创</description>
     </item>
     
     <item>
       <title>游猎者</title>
-      <link>http://106.14.32.84/units/uns-space-ranger/</link>
+      <link>http://desider.com/units/uns-space-ranger/</link>
       <pubDate>Thu, 22 Jul 2021 15:08:12 +0800</pubDate>
       
-      <guid>http://106.14.32.84/units/uns-space-ranger/</guid>
+      <guid>http://desider.com/units/uns-space-ranger/</guid>
       <description>概况 名称 耐伤W 移动M 射击BS 近战WS 攻速A 防护Sv 分值 游猎者 1 15 3+ 3+ 1</description>
     </item>
     
     <item>
-      <title>斗望简史</title>
-      <link>http://106.14.32.84/story/desider-01/</link>
+      <title>斗望宇宙简述</title>
+      <link>http://desider.com/story/desider-01/</link>
       <pubDate>Sun, 18 Jul 2021 11:38:41 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/desider-01/</guid>
+      <guid>http://desider.com/story/desider-01/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;进取的人类、古老的雅龙、庞大的元孢帝国、神秘的比特星球、嗜血的异形，还有那些不断召唤同党的虚空恶魔……共同谱写着银河的历史篇章！&lt;/p&gt;
+&lt;p&gt;进取的人类、古老的雅龙、庞大的元孢帝国、神秘的比特星球、嗜血的异形，还有那些不断召唤同党的虚空恶魔……共同谱写着银河的壮丽史诗！&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
     <item>
       <title>基础规则</title>
-      <link>http://106.14.32.84/rules/rules-01/</link>
+      <link>http://desider.com/rules/rules-01/</link>
       <pubDate>Sun, 18 Jul 2021 11:19:43 +0800</pubDate>
       
-      <guid>http://106.14.32.84/rules/rules-01/</guid>
+      <guid>http://desider.com/rules/rules-01/</guid>
       <description>军队 斗望战棋中的每位玩家都要指挥一支由微缩模型组成的军队，这些微缩模型</description>
     </item>
     
     <item>
       <title>联系我们</title>
-      <link>http://106.14.32.84/about/contact/</link>
+      <link>http://desider.com/about/contact/</link>
       <pubDate>Mon, 26 Jul 2021 20:14:09 +0800</pubDate>
       
-      <guid>http://106.14.32.84/about/contact/</guid>
-      <description>上海斗望工坊科技有限公司 上海市闵行区龙湖虹桥天街（一展空间F4） 交通路</description>
+      <guid>http://desider.com/about/contact/</guid>
+      <description>上海斗望工坊科技有限公司 上海市闵行区龙湖虹桥天街购物中心B馆512室（</description>
     </item>
     
     <item>
       <title>星国骑士</title>
-      <link>http://106.14.32.84/units/uns-knight/</link>
+      <link>http://desider.com/units/uns-knight/</link>
       <pubDate>Thu, 22 Jul 2021 15:10:24 +0800</pubDate>
       
-      <guid>http://106.14.32.84/units/uns-knight/</guid>
+      <guid>http://desider.com/units/uns-knight/</guid>
       <description>概况 名称 耐伤W 移动M 射击BS 近战WS 攻速A 防护Sv 分值 星国骑士 2 25 3+ 3+</description>
     </item>
     
     <item>
       <title>联合星国</title>
-      <link>http://106.14.32.84/story/uns-00/</link>
+      <link>http://desider.com/story/uns-00/</link>
       <pubDate>Wed, 21 Jul 2021 18:42:05 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/uns-00/</guid>
-      <description>星国科技 武器系统 纳米武器 纳米步枪，这是一种由智能AI辅助控制的全自动实</description>
+      <guid>http://desider.com/story/uns-00/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;在超级智能“普罗米修斯”帮助下的人类，在超光速航行和瞬时通讯技术上实现了重大突破，开启了惊心动魄的大远航时代……&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
       <title>战斗规则</title>
-      <link>http://106.14.32.84/rules/rules-02/</link>
+      <link>http://desider.com/rules/rules-02/</link>
       <pubDate>Sun, 18 Jul 2021 11:20:51 +0800</pubDate>
       
-      <guid>http://106.14.32.84/rules/rules-02/</guid>
+      <guid>http://desider.com/rules/rules-02/</guid>
       <description>您的每个战斗回合分为五个阶段，指挥阶段、移动阶段、射击阶段、冲锋阶段和</description>
     </item>
     
     <item>
       <title>泰坦</title>
-      <link>http://106.14.32.84/units/uns-titan/</link>
+      <link>http://desider.com/units/uns-titan/</link>
       <pubDate>Thu, 22 Jul 2021 15:10:51 +0800</pubDate>
       
-      <guid>http://106.14.32.84/units/uns-titan/</guid>
+      <guid>http://desider.com/units/uns-titan/</guid>
       <description>概况 名称 耐伤W 移动M 射击BS 近战WS 攻速A 防护Sv 分值 泰坦 6 20 3+ 3+ 3 3+</description>
     </item>
     
     <item>
       <title>圣龙传说</title>
-      <link>http://106.14.32.84/story/loong-01/</link>
+      <link>http://desider.com/story/loong-00/</link>
       <pubDate>Sun, 18 Jul 2021 11:23:58 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/loong-01/</guid>
-      <description>雅龙最津津乐道的莫过于那些古老的传说…… 没有人知道“圣龙”是否真的存在</description>
+      <guid>http://desider.com/story/loong-00/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;过着采猎生活的雅龙们，津津乐道于那些古老的传说，末日劫难、圣龙真经、古圣科技……还有那拥有超级智慧的“圣龙”先祖。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
       <title>地形规则</title>
-      <link>http://106.14.32.84/rules/rules-03/</link>
+      <link>http://desider.com/rules/rules-03/</link>
       <pubDate>Sun, 18 Jul 2021 11:21:37 +0800</pubDate>
       
-      <guid>http://106.14.32.84/rules/rules-03/</guid>
+      <guid>http://desider.com/rules/rules-03/</guid>
       <description>这是一个完全开放的地形规则，您不仅可以通过官方推出的地形模型来搭建战场</description>
     </item>
     
     <item>
       <title>商务合作</title>
-      <link>http://106.14.32.84/about/business/</link>
+      <link>http://desider.com/about/business/</link>
       <pubDate>Mon, 26 Jul 2021 20:16:34 +0800</pubDate>
       
-      <guid>http://106.14.32.84/about/business/</guid>
+      <guid>http://desider.com/about/business/</guid>
       <description>敬请期待……</description>
     </item>
     
     <item>
       <title>龙仔小队</title>
-      <link>http://106.14.32.84/units/loong-zai/</link>
+      <link>http://desider.com/units/loong-zai/</link>
       <pubDate>Thu, 22 Jul 2021 15:13:53 +0800</pubDate>
       
-      <guid>http://106.14.32.84/units/loong-zai/</guid>
+      <guid>http://desider.com/units/loong-zai/</guid>
       <description>概况 名称 耐伤W 移动M 射击BS 近战WS 攻速A 防护Sv 分值 龙仔 2 20 4+ 4+ 1 4+</description>
     </item>
     
     <item>
       <title>战役规则</title>
-      <link>http://106.14.32.84/rules/rules-04/</link>
+      <link>http://desider.com/rules/rules-04/</link>
       <pubDate>Sun, 18 Jul 2021 11:22:08 +0800</pubDate>
       
-      <guid>http://106.14.32.84/rules/rules-04/</guid>
+      <guid>http://desider.com/rules/rules-04/</guid>
       <description>阵营 是时候建立属于自己的战团了，首先选择一个您喜欢的阵营： 星国 雅龙 一个</description>
     </item>
     
     <item>
-      <title>智能爆炸</title>
-      <link>http://106.14.32.84/story/uns-01/</link>
+      <title>超级智能“普罗米修斯”</title>
+      <link>http://desider.com/story/uns-01/</link>
       <pubDate>Fri, 16 Jul 2021 21:03:01 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/uns-01/</guid>
-      <description>普罗米修斯 2051年1月1日 人类的第一个通用人工智能，被命名为“普罗米</description>
+      <guid>http://desider.com/story/uns-01/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;人类的第一个通用人工智能，被命名为“普罗米修斯”，那是神话中为人类盗取火种的神的名字。学会使用火无疑是人类文明进化的一把钥匙，那么“通用人工智能”就是那第二把钥匙。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
       <title>加入我们</title>
-      <link>http://106.14.32.84/about/recruit/</link>
+      <link>http://desider.com/about/recruit/</link>
       <pubDate>Thu, 15 Jul 2021 16:43:16 +0800</pubDate>
       
-      <guid>http://106.14.32.84/about/recruit/</guid>
+      <guid>http://desider.com/about/recruit/</guid>
       <description>欢迎加入斗望工坊，请发送您的简历到 hr@desider.com ，我们会第一时间与您联系。 3D模型</description>
     </item>
     
     <item>
       <title>麟龙骑士</title>
-      <link>http://106.14.32.84/units/loong-rider/</link>
+      <link>http://desider.com/units/loong-rider/</link>
       <pubDate>Thu, 22 Jul 2021 15:14:28 +0800</pubDate>
       
-      <guid>http://106.14.32.84/units/loong-rider/</guid>
+      <guid>http://desider.com/units/loong-rider/</guid>
       <description>概况 名称 耐伤W 移动M 射击BS 近战WS 攻速A 防护Sv 分值 麟龙骑士 3 30 4+ 4+</description>
     </item>
     
     <item>
       <title>大远航</title>
-      <link>http://106.14.32.84/story/uns-02/</link>
+      <link>http://desider.com/story/uns-02/</link>
       <pubDate>Fri, 16 Jul 2021 21:03:18 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/uns-02/</guid>
-      <description>曲速引擎 Donald大学刚毕业就开始在LAMBDA工作了，他知道这是能</description>
+      <guid>http://desider.com/story/uns-02/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;人类历史上一个跨越千年的时代开启了，这就是波澜壮阔的大远航时代，人类的足迹踏遍了大半个银河。人类探测器造访了一亿个恒星系统，发现了超过1亿种外星生物，人类亲自踏足了1万颗行星，建立了超过1000个人类政权。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
       <title>武僧</title>
-      <link>http://106.14.32.84/units/loong-wuseng/</link>
+      <link>http://desider.com/units/loong-wuseng/</link>
       <pubDate>Thu, 22 Jul 2021 15:14:07 +0800</pubDate>
       
-      <guid>http://106.14.32.84/units/loong-wuseng/</guid>
+      <guid>http://desider.com/units/loong-wuseng/</guid>
       <description>概况 名称 耐伤W 移动M 射击BS 近战WS 攻速A 防护Sv 分值 武僧 3 20 4+ 4+ 2 4+</description>
     </item>
     
     <item>
-      <title>Start</title>
-      <link>http://106.14.32.84/about/start/</link>
+      <title>快速开始</title>
+      <link>http://desider.com/about/start/</link>
       <pubDate>Wed, 28 Jul 2021 18:13:37 +0800</pubDate>
       
-      <guid>http://106.14.32.84/about/start/</guid>
-      <description>Comming soon &amp;hellip;</description>
+      <guid>http://desider.com/about/start/</guid>
+      <description>1. 选择阵营 「人类（联合星国）」或者「雅龙」 更多阵营在路上…… 2. 涂装上色</description>
     </item>
     
   </channel>

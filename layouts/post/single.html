@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="container">
+	<div class="card bg-light py-3 px-1 px-lg-3">
+		<div class="card-header bg-light text-center">
+			<h1>{{.Title}}</h1>
+			<p class="lead text-muted">{{ with .Params.subtitle }}<span>{{.}}</span>{{ end }}</p>
+			<p class="text-muted">{{ .Date.Format "Mon Jan 2, 2006" }}</p>
+		</div>
+		<div class="card-body">
+			{{ .Content }}
+		</div>
+	</div>
+</div>
+{{ end }}

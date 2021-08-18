@@ -2,53 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DESIDER斗望——一款科幻背景的模型战棋游戏</title>
-    <link>http://106.14.32.84/categories/</link>
+    <link>http://desider.com/categories/</link>
     <description>Recent content in Categories on DESIDER斗望——一款科幻背景的模型战棋游戏</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jul 2021 18:42:05 +0800</lastBuildDate><atom:link href="http://106.14.32.84/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 18:42:05 +0800</lastBuildDate><atom:link href="http://desider.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>联合星国</title>
-      <link>http://106.14.32.84/categories/%E8%81%94%E5%90%88%E6%98%9F%E5%9B%BD/</link>
+      <link>http://desider.com/categories/%E8%81%94%E5%90%88%E6%98%9F%E5%9B%BD/</link>
       <pubDate>Wed, 21 Jul 2021 18:42:05 +0800</pubDate>
       
-      <guid>http://106.14.32.84/categories/%E8%81%94%E5%90%88%E6%98%9F%E5%9B%BD/</guid>
+      <guid>http://desider.com/categories/%E8%81%94%E5%90%88%E6%98%9F%E5%9B%BD/</guid>
       <description></description>
     </item>
     
     <item>
       <title>背景设定</title>
-      <link>http://106.14.32.84/categories/%E8%83%8C%E6%99%AF%E8%AE%BE%E5%AE%9A/</link>
+      <link>http://desider.com/categories/%E8%83%8C%E6%99%AF%E8%AE%BE%E5%AE%9A/</link>
       <pubDate>Wed, 21 Jul 2021 18:42:05 +0800</pubDate>
       
-      <guid>http://106.14.32.84/categories/%E8%83%8C%E6%99%AF%E8%AE%BE%E5%AE%9A/</guid>
+      <guid>http://desider.com/categories/%E8%83%8C%E6%99%AF%E8%AE%BE%E5%AE%9A/</guid>
       <description></description>
     </item>
     
     <item>
       <title>斗望宇宙</title>
-      <link>http://106.14.32.84/categories/%E6%96%97%E6%9C%9B%E5%AE%87%E5%AE%99/</link>
+      <link>http://desider.com/categories/%E6%96%97%E6%9C%9B%E5%AE%87%E5%AE%99/</link>
       <pubDate>Sun, 18 Jul 2021 11:38:41 +0800</pubDate>
       
-      <guid>http://106.14.32.84/categories/%E6%96%97%E6%9C%9B%E5%AE%87%E5%AE%99/</guid>
+      <guid>http://desider.com/categories/%E6%96%97%E6%9C%9B%E5%AE%87%E5%AE%99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>雅龙</title>
-      <link>http://106.14.32.84/categories/%E9%9B%85%E9%BE%99/</link>
+      <link>http://desider.com/categories/%E9%9B%85%E9%BE%99/</link>
       <pubDate>Sun, 18 Jul 2021 11:23:58 +0800</pubDate>
       
-      <guid>http://106.14.32.84/categories/%E9%9B%85%E9%BE%99/</guid>
+      <guid>http://desider.com/categories/%E9%9B%85%E9%BE%99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>短片小说</title>
-      <link>http://106.14.32.84/categories/%E7%9F%AD%E7%89%87%E5%B0%8F%E8%AF%B4/</link>
+      <link>http://desider.com/categories/%E7%9F%AD%E7%89%87%E5%B0%8F%E8%AF%B4/</link>
       <pubDate>Fri, 16 Jul 2021 21:03:18 +0800</pubDate>
       
-      <guid>http://106.14.32.84/categories/%E7%9F%AD%E7%89%87%E5%B0%8F%E8%AF%B4/</guid>
+      <guid>http://desider.com/categories/%E7%9F%AD%E7%89%87%E5%B0%8F%E8%AF%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>短篇小说</title>
+      <link>http://desider.com/categories/%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4/</link>
+      <pubDate>Fri, 16 Jul 2021 21:03:01 +0800</pubDate>
+      
+      <guid>http://desider.com/categories/%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4/</guid>
       <description></description>
     </item>
     

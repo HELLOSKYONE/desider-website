@@ -2,29 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cover on DESIDER斗望——一款科幻背景的模型战棋游戏</title>
-    <link>http://106.14.32.84/tags/cover/</link>
+    <link>http://desider.com/tags/cover/</link>
     <description>Recent content in cover on DESIDER斗望——一款科幻背景的模型战棋游戏</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jul 2021 11:38:41 +0800</lastBuildDate><atom:link href="http://106.14.32.84/tags/cover/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jul 2021 11:38:41 +0800</lastBuildDate><atom:link href="http://desider.com/tags/cover/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>斗望简史</title>
-      <link>http://106.14.32.84/story/desider-01/</link>
+      <title>斗望宇宙简述</title>
+      <link>http://desider.com/story/desider-01/</link>
       <pubDate>Sun, 18 Jul 2021 11:38:41 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/desider-01/</guid>
+      <guid>http://desider.com/story/desider-01/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;进取的人类、古老的雅龙、庞大的元孢帝国、神秘的比特星球、嗜血的异形，还有那些不断召唤同党的虚空恶魔……共同谱写着银河的历史篇章！&lt;/p&gt;
+&lt;p&gt;进取的人类、古老的雅龙、庞大的元孢帝国、神秘的比特星球、嗜血的异形，还有那些不断召唤同党的虚空恶魔……共同谱写着银河的壮丽史诗！&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>智能爆炸</title>
-      <link>http://106.14.32.84/story/uns-01/</link>
+      <title>超级智能“普罗米修斯”</title>
+      <link>http://desider.com/story/uns-01/</link>
       <pubDate>Fri, 16 Jul 2021 21:03:01 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/uns-01/</guid>
-      <description>普罗米修斯 2051年1月1日 人类的第一个通用人工智能，被命名为“普罗米</description>
+      <guid>http://desider.com/story/uns-01/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;人类的第一个通用人工智能，被命名为“普罗米修斯”，那是神话中为人类盗取火种的神的名字。学会使用火无疑是人类文明进化的一把钥匙，那么“通用人工智能”就是那第二把钥匙。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>

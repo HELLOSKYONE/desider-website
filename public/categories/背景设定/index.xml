@@ -2,38 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>背景设定 on DESIDER斗望——一款科幻背景的模型战棋游戏</title>
-    <link>http://106.14.32.84/categories/%E8%83%8C%E6%99%AF%E8%AE%BE%E5%AE%9A/</link>
+    <link>http://desider.com/categories/%E8%83%8C%E6%99%AF%E8%AE%BE%E5%AE%9A/</link>
     <description>Recent content in 背景设定 on DESIDER斗望——一款科幻背景的模型战棋游戏</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jul 2021 18:42:05 +0800</lastBuildDate><atom:link href="http://106.14.32.84/categories/%E8%83%8C%E6%99%AF%E8%AE%BE%E5%AE%9A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 18:42:05 +0800</lastBuildDate><atom:link href="http://desider.com/categories/%E8%83%8C%E6%99%AF%E8%AE%BE%E5%AE%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>斗望简史</title>
-      <link>http://106.14.32.84/story/desider-01/</link>
+      <title>斗望宇宙简述</title>
+      <link>http://desider.com/story/desider-01/</link>
       <pubDate>Sun, 18 Jul 2021 11:38:41 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/desider-01/</guid>
+      <guid>http://desider.com/story/desider-01/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;进取的人类、古老的雅龙、庞大的元孢帝国、神秘的比特星球、嗜血的异形，还有那些不断召唤同党的虚空恶魔……共同谱写着银河的历史篇章！&lt;/p&gt;
+&lt;p&gt;进取的人类、古老的雅龙、庞大的元孢帝国、神秘的比特星球、嗜血的异形，还有那些不断召唤同党的虚空恶魔……共同谱写着银河的壮丽史诗！&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
     <item>
       <title>联合星国</title>
-      <link>http://106.14.32.84/story/uns-00/</link>
+      <link>http://desider.com/story/uns-00/</link>
       <pubDate>Wed, 21 Jul 2021 18:42:05 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/uns-00/</guid>
-      <description>星国科技 武器系统 纳米武器 纳米步枪，这是一种由智能AI辅助控制的全自动实</description>
+      <guid>http://desider.com/story/uns-00/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;在超级智能“普罗米修斯”帮助下的人类，在超光速航行和瞬时通讯技术上实现了重大突破，开启了惊心动魄的大远航时代……&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
       <title>圣龙传说</title>
-      <link>http://106.14.32.84/story/loong-01/</link>
+      <link>http://desider.com/story/loong-00/</link>
       <pubDate>Sun, 18 Jul 2021 11:23:58 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/loong-01/</guid>
-      <description>雅龙最津津乐道的莫过于那些古老的传说…… 没有人知道“圣龙”是否真的存在</description>
+      <guid>http://desider.com/story/loong-00/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;过着采猎生活的雅龙们，津津乐道于那些古老的传说，末日劫难、圣龙真经、古圣科技……还有那拥有超级智慧的“圣龙”先祖。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>

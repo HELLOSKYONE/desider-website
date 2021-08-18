@@ -3,7 +3,6 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link href="/dist/css/theme.css" rel="stylesheet" />
 		<link href="/dist/css/main.css" rel="stylesheet" />
 		<title>
 			
@@ -12,8 +11,13 @@
 		</title>
 	</head>
 	<body>
-		<header class="container-fluid">
-			<nav class="container navbar navbar-expand-lg rounded navbar-light">
+		
+		
+		
+		
+		
+		<header class="container-fluid pt-4 bg-dark" style="background: url(/images/the-stars-1.jpg) center; background-size: cover; height: 600px;">
+			<nav class="container navbar navbar-expand-lg rounded navbar-light bg-transluzent">
 	<div class="container-fluid">
 		<a class="navbar-brand" href="/">
 			<img class="me-3" src="/images/desider-dark.svg" alt="" width="30" height="38">
@@ -44,33 +48,55 @@
 					</a>
 				</li>
 				
-				<li class="nav-item px-2  ">
-					<a class="nav-link  " href="/post/">
-						博客
-					</a>
-				</li>
-				
 			</ul>
 		</div>
 	</div>
 </nav>
 
-			<div class="py-5 text-center text-light">
-				<h1 class="fw-light">联系我们</h1>
-				<p class="lead text-muted"></p>
-				
-			</div>
+			
+			
+			
 		</header>
+		
 		<main>
 			<div class="py-3" style="margin-top: -120px;">
 			
 <div class="container">
-	<div class="card bg-light p-3">
+	<div class="card bg-light py-3 px-1 px-lg-3">
+		<div class="card-header bg-light text-center">
+			<h1>联系我们</h1>
+			<p class="lead text-muted"></p>
+			
+		</div>
 		<div class="card-body">
 			<h3 id="上海斗望工坊科技有限公司">上海斗望工坊科技有限公司</h3>
-<p>上海市闵行区龙湖虹桥天街（一展空间F4）</p>
-<p>交通路线：2号线、10号线、17号线虹桥火车站站（D口）</p>
-
+<p>上海市闵行区龙湖虹桥天街购物中心B馆512室（申长路869号）<br />
+地铁2号线、10号线、17号线，虹桥火车站站D出口</p>
+<style>
+    #container {
+        overflow: hidden;
+        width: 100%;
+        height: 500px;
+        margin: 0;
+    }
+</style>
+<div class="border rounded"  id="container"></div>
+<script src="//api.map.baidu.com/api?type=webgl&v=1.0&ak=mru1CkU69r4eFEDSESpImCmFBn5e2ee8"></script>
+<script>
+var map = new BMapGL.Map('container');
+var point = new BMapGL.Point(121.320207,31.197518);
+map.centerAndZoom(point, 17);
+var opts = {
+    width: 200,
+    height: 60,
+    title: '斗望工坊'
+};
+var infoWindow = new BMapGL.InfoWindow('龙湖虹桥天街购物中心B馆（申长路869号）512室', opts);
+map.openInfoWindow(infoWindow, point);
+function getInfoContent() {
+    alert(infoWindow.getContent());
+}
+</script>
 		</div>
 	</div>
 </div>
@@ -92,6 +118,7 @@
 			<a class="nav-link text-white" href="/about/business/">商务合作</a>
 			
 		</nav>
+		<div class="text-center"><a class="link-secondary" href="https://beian.miit.gov.cn" target="view_window">沪ICP备2021023100号</a></div>
 	</div>
 </footer>
 

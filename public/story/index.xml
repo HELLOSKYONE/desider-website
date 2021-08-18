@@ -2,56 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>故事 on DESIDER斗望——一款科幻背景的模型战棋游戏</title>
-    <link>http://106.14.32.84/story/</link>
+    <link>http://desider.com/story/</link>
     <description>Recent content in 故事 on DESIDER斗望——一款科幻背景的模型战棋游戏</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jul 2021 16:25:53 +0800</lastBuildDate><atom:link href="http://106.14.32.84/story/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 16:25:53 +0800</lastBuildDate><atom:link href="http://desider.com/story/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>斗望简史</title>
-      <link>http://106.14.32.84/story/desider-01/</link>
+      <title>斗望宇宙简述</title>
+      <link>http://desider.com/story/desider-01/</link>
       <pubDate>Sun, 18 Jul 2021 11:38:41 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/desider-01/</guid>
+      <guid>http://desider.com/story/desider-01/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;进取的人类、古老的雅龙、庞大的元孢帝国、神秘的比特星球、嗜血的异形，还有那些不断召唤同党的虚空恶魔……共同谱写着银河的历史篇章！&lt;/p&gt;
+&lt;p&gt;进取的人类、古老的雅龙、庞大的元孢帝国、神秘的比特星球、嗜血的异形，还有那些不断召唤同党的虚空恶魔……共同谱写着银河的壮丽史诗！&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
     <item>
       <title>联合星国</title>
-      <link>http://106.14.32.84/story/uns-00/</link>
+      <link>http://desider.com/story/uns-00/</link>
       <pubDate>Wed, 21 Jul 2021 18:42:05 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/uns-00/</guid>
-      <description>星国科技 武器系统 纳米武器 纳米步枪，这是一种由智能AI辅助控制的全自动实</description>
+      <guid>http://desider.com/story/uns-00/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;在超级智能“普罗米修斯”帮助下的人类，在超光速航行和瞬时通讯技术上实现了重大突破，开启了惊心动魄的大远航时代……&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
       <title>圣龙传说</title>
-      <link>http://106.14.32.84/story/loong-01/</link>
+      <link>http://desider.com/story/loong-00/</link>
       <pubDate>Sun, 18 Jul 2021 11:23:58 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/loong-01/</guid>
-      <description>雅龙最津津乐道的莫过于那些古老的传说…… 没有人知道“圣龙”是否真的存在</description>
+      <guid>http://desider.com/story/loong-00/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;过着采猎生活的雅龙们，津津乐道于那些古老的传说，末日劫难、圣龙真经、古圣科技……还有那拥有超级智慧的“圣龙”先祖。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>智能爆炸</title>
-      <link>http://106.14.32.84/story/uns-01/</link>
+      <title>超级智能“普罗米修斯”</title>
+      <link>http://desider.com/story/uns-01/</link>
       <pubDate>Fri, 16 Jul 2021 21:03:01 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/uns-01/</guid>
-      <description>普罗米修斯 2051年1月1日 人类的第一个通用人工智能，被命名为“普罗米</description>
+      <guid>http://desider.com/story/uns-01/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;人类的第一个通用人工智能，被命名为“普罗米修斯”，那是神话中为人类盗取火种的神的名字。学会使用火无疑是人类文明进化的一把钥匙，那么“通用人工智能”就是那第二把钥匙。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
       <title>大远航</title>
-      <link>http://106.14.32.84/story/uns-02/</link>
+      <link>http://desider.com/story/uns-02/</link>
       <pubDate>Fri, 16 Jul 2021 21:03:18 +0800</pubDate>
       
-      <guid>http://106.14.32.84/story/uns-02/</guid>
-      <description>曲速引擎 Donald大学刚毕业就开始在LAMBDA工作了，他知道这是能</description>
+      <guid>http://desider.com/story/uns-02/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;人类历史上一个跨越千年的时代开启了，这就是波澜壮阔的大远航时代，人类的足迹踏遍了大半个银河。人类探测器造访了一亿个恒星系统，发现了超过1亿种外星生物，人类亲自踏足了1万颗行星，建立了超过1000个人类政权。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>
